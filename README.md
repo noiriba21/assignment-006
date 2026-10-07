@@ -2,7 +2,7 @@
 
 A modern workout library and tracking web application built with Next.js and Tailwind CSS, designed for fitness enthusiasts to browse exercises, filter by muscle groups, and manage personalized workout plans with local storage persistence.
 
-🔗 **Live Demo:** [https://assignment-006.vercel.app](https://assignment-006.vercel.app)
+🔗 **Live:** [https://assignment-006.vercel.app](https://assignment-006.vercel.app)
 
 ---
 
